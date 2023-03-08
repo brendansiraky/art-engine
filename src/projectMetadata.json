@@ -1,0 +1,79 @@
+// The Ape Society
+{
+    "Hat": "Privateer Hat",
+    "Body": "Orange",
+    "Ears": "Plain",
+    "Eyes": "Normal",
+    "Head": "Orange",
+    "name": "Ackley Amato",
+    "rate": "0.05",
+    "Class": "Merchants",
+    "files": [
+      {
+        "src": "ipfs://QmWSZKtr2Kihufv9MFujEJNukfDno4gEu4MgzNnK8Peza8",
+        "name": "Ackley Amato",
+        "mediaType": "image/jpeg"
+      }
+    ],
+    "image": "ipfs://QmWSZKtr2Kihufv9MFujEJNukfDno4gEu4MgzNnK8Peza8",
+    "Family": "Amato",
+    "Weapon": "Spear",
+    "Accessory": "None",
+    "mediaType": "image/jpeg",
+    "Background": "Oker",
+    "Facial Hair": "Normal",
+    "description": "A distinguished member of the Amato family"
+}
+
+// Alley Katz
+{
+    "url": "alleykatz.xyz",
+    "name": "Alley Katz #00001",
+    "files": [
+      {
+        "src": "ipfs://QmT6ybSoVUnBD6xL97Pfaxkj9MN1Ngedkhb7DfHSe3azsB",
+        "name": "pfp",
+        "mediaType": "image/png"
+      }
+    ],
+    "image": "ipfs://QmT6ybSoVUnBD6xL97Pfaxkj9MN1Ngedkhb7DfHSe3azsB",
+    "hashtag": "#JoinTheDestruction",
+    "mediaType": "image/png",
+    "attributes": {
+      "Fur": "Shroom",
+      "Eyes": "GreenUnfazed",
+      "Mouth": "Kat",
+      "Clothes": "UtilityVest",
+      "Eyewear": "JazzyShades",
+      "Earrings": "GoldHoop",
+      "Headwear": "BlueLa",
+      "Background": "BabyBlue"
+    }
+}
+
+// Boss Cat Rocket Club
+{
+    "Fur": "Gray Tabby",
+    "Eyes": "Serious Red",
+    "name": "Boss Cat Rocket Club #1",
+    "Mouth": "Standard",
+    "image": "ipfs://QmVjrCuTxMKx9rJxqxQsaLx5sd5ZHb1yjJBUsscQU41Pqr",
+    "Earring": "Gold Cross",
+    "Background": "Cream"
+}
+
+// Clay Nation
+{
+    "body": "White Clay",
+    "eyes": "Eye Sockets",
+    "name": "Clay Nation #0001",
+    "brows": "Blue Eyebrows",
+    "image": "ipfs://QmUHdjHYQMVu33uHmsfYkeGnBJDPc8fQsaG6dRgZ6SY2Xr",
+    "mouth": "Normal Mouth",
+    "Project": "Clay Nation by Clay Mates",
+    "clothes": "Super Hero",
+    "background": "Seafoam Green",
+    "accessories": "Spider",
+    "hats and hair": "Green Mohawk"
+}
+
